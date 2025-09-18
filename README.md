@@ -62,7 +62,7 @@ Once the application is running, you can:
 Additional configuration is managed through the code and does not require user modification. Ensure that the model files are correctly placed in the project directory.
 
 ## Contact
-For any questions, please contact: Meghana: meghanavjiet@gmail.com
+For any questions, please contact: Zeba Thabassum: zebathabassum01@gmail.com
 
 ## Output
 Emotion Detection :  fear , sad , neutral , happy
